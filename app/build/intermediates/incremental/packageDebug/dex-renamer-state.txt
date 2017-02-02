@@ -1,0 +1,7 @@
+#Thu Feb 02 08:41:10 CET 2017
+base.0=D\:\\DESIGN_PATTERN_ANDROID\\CH4\\ReadXML\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c92679fdb778db72cfc9888eb67d6919a6bac192
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\DESIGN_PATTERN_ANDROID\\CH4\\ReadXML\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_a1b6899ff13fb07b1cc0dcbd61e91ef3793e9926\\classes.dex
+base.1=D\:\\DESIGN_PATTERN_ANDROID\\CH4\\ReadXML\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_a1b6899ff13fb07b1cc0dcbd61e91ef3793e9926
+file.0=D\:\\DESIGN_PATTERN_ANDROID\\CH4\\ReadXML\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c92679fdb778db72cfc9888eb67d6919a6bac192\\classes.dex

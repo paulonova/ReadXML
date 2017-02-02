@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\DESIGN_PATTERN_ANDROID\CH4\ReadXML\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="D:\DESIGN_PATTERN_ANDROID\CH4\ReadXML\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.1_5fe2e56a53e76c806e1912843069d6855b956a01\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="D:\DESIGN_PATTERN_ANDROID\CH4\ReadXML\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.1_6ededcc9b39f46fbcdd6efbd1a4d51bb6afd2a15\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\DESIGN_PATTERN_ANDROID\CH4\ReadXML\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="D:\DESIGN_PATTERN_ANDROID\CH4\ReadXML\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.1.1_bbbe08e73596174734d880244b698962374069b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\DESIGN_PATTERN_ANDROID\CH4\ReadXML\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b17d57551f3bf0080aadc6b726c9a183657f2527">
+        <dex dex="D:\DESIGN_PATTERN_ANDROID\CH4\ReadXML\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a1b6899ff13fb07b1cc0dcbd61e91ef3793e9926\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\DESIGN_PATTERN_ANDROID\CH4\ReadXML\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="D:\DESIGN_PATTERN_ANDROID\CH4\ReadXML\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.1_e737ca8cec263b0ad43ed9ae6c726a15116b48f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\DESIGN_PATTERN_ANDROID\CH4\ReadXML\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9f70640365d56b30d4f8ca62af65cbee2ec8fbae">
+        <dex dex="D:\DESIGN_PATTERN_ANDROID\CH4\ReadXML\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c92679fdb778db72cfc9888eb67d6919a6bac192\classes.dex" />
+    </item>
+
+</items>
